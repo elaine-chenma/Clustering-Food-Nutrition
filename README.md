@@ -48,6 +48,7 @@ Vegetables and fruits are low in sugar and fat, which is healthy and recommended
 Pasta, rice and oatmeal provides energy for human body but some of them are sugar-heavy, hence products in this group are not recommended for people with diabetes or obesity.
 
 Nuts is high in both fat and protein, while there is no need to worry about the heavy fat because it’s healthy and beneficial to angiocarpy.
+
 The last category snacks and junk food contains much fat and sugar, which is the least healthy food for human, hence we should be careful not to over-consume.
 
 ![image2](/images/Picture2.png)
