@@ -20,6 +20,8 @@ Looks from variance plot, three PCA is ideal, and they can be interpreted as fol
 - PC1: high carbohydrates, high sugar, and high energy, which is very common in pasta and rice, hence can be interpreted as staple food;
 - PC2: high fat, high protein, and high energy, which is very common in nuts
 - PC3: high fat, high sugar, and low carbohydrates, which is very common in fried food like burger and chips, hence can be interpreted as junk food;
+![screeplot](/images/screeplot.png)
+
 
 #### 3.  Cluster Interpretation
 
@@ -28,7 +30,11 @@ From the visualization based on PCA, we can see that there are four clear cluste
 - Cluster 1： pasta, rice and oatmeal
 - Cluster 2： nuts
 - Cluster 3： snacks and junk food
-![image1](/images/Picutre1.png)
+![image1](/images/Picture1.png)
+
+In cluster interpretation process, word plot of product names can also be used to help understand what's inside each cluster.(Below is the example of cluster 2)
+![image1](/images/wordcloud.png)
+
 
 
 ### Recommendation for Consumers
@@ -37,4 +43,4 @@ Pasta, rice and oatmeal provides energy for human body but some of them are suga
 Nuts is high in both fat and protein, while there is no need to worry about the heavy fat because it’s healthy and beneficial to angiocarpy.
 The last category snacks and junk food contains much fat and sugar, which is the least healthy food for human, hence we should be careful not to over-consume.
 
-![image2](/images/Picutre2.png)
+![image2](/images/Picture2.png)
